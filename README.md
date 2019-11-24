@@ -20,3 +20,8 @@ My personal blog (vietnamese): [here](https://anhvanthe.wordpress.com)
 * Learn openpyxl
 * Learn python GUI
 * Draw draft of App
+
+
+# Update:
+
+Currently Octopart/Digikey disabled my API key so this project suspended. 
